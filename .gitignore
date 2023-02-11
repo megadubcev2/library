@@ -1,0 +1,9 @@
+/shelf/
+/workspace.xml
+.idea/
+*.class
+*.iml
+out/
+# Project exclude paths
+/.gradle/
+/build/
